@@ -4,12 +4,12 @@
 
  
 
-<h1 align="center">Hi 👋, I'm MRanaPy</h1>
+<h1 align="center">Hola 👋, I'm JoseF</h1>
 <h3 align="center">A passionate future backend developer</h3>
 
 - 🔭 I’m currently working on **studying system engineering**
 
-- 🌱 I’m currently learning **Python,Java, Bash, Linux, Spring, Android Development and Gitnd and**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [youtube](youtube)
 
