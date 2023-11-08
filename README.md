@@ -5,16 +5,7 @@
  
 
 <h1 align="center">Hola 👋, I'm JoseF</h1>
-<h3 align="center">A passionate future backend developer</h3>
-
-- 🔭 I’m currently working on **studying system engineering**
-
-- 🌱 I’m currently learning **JAVA**
-
-- 👨‍💻 All of my projects are available at [youtube](youtube)
-
-- ⚡ Fun fact **I'm not funny**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/rocketcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rocketcode" height="30" width="40" /></a>
